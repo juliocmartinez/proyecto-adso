@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container {
+    width: 90%;
+    margin: 0px auto;
+}
+
+img {
+    width: 130px;
+}
+
+#header1 {
+    display: flex;
+    height: 146px;
+    line-height: 140px;
+    justify-content: space-between;
+
+}
+#search input{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+#search button{
+    margin-right: 30px;
+    font-size: 22px;
+    background-color: transparent;
+    border: none;
+
+}
+
+#menu ul{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    
+}
+#menu ul li{
+    margin-right: 60px;
+}
+#menu ul li a{
+    text-decoration: none;
+    color: black;
+
+
+}
+
+
+
+
+
+
+
